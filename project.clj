@@ -1,5 +1,5 @@
 (defproject lein-repl-run
-  "0.1.0-SNAPSHOT"
+  "0.1.0"
   :description "A Leiningen plugin to run a program with a background nrepl server."
   :url "https://github.com/jimbru/lein-repl-run"
   :license {:name "Eclipse Public License"
